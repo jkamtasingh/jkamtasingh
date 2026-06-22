@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+I'm Joshua, a Computer Engineering Student @ University of Guelph.
+
+I turn ideas into circuits and code. Always building, always learning, never settling.
+
+My current tech stack is: Arduino IDE, C++ using Replit, and Tinkercad. My favourite tools are Procreate, Davinci Resolve and Apple Notes.
+
+I have two posted projects, with my favourite being the 2-Bit D Latch Memory with Arduino and LCD.
+
+I'm currently working on a Smart Greenhouse System, an IoT system that monitors air quality, temperature, humidity, and soil moisture, using data analytics to automate LED grow lights and watering schedules via a mobile app.
+
+Fun Facts:
+- Physics is my favourite subject
+- Minecraft is my favourite video game
+- Hobbies: reading, gym, studying
 <!--
 **jkamtasingh/jkamtasingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
